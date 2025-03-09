@@ -55,8 +55,15 @@ Kami membuka kesempatan bagi siapa saja yang ingin berkontribusi dalam pengemban
 
 ## 📞 Kontak & Dukungan
 
-Jika ada pertanyaan atau ingin berdiskusi lebih lanjut, hubungi saya di:
 
+
+## 🎁 Dukung Pengembangan
+Proyek ini merupakan modifikasi dari **MikroTik Script Generator Buana**.  
+Jika proyek ini bermanfaat, kamu bisa mendukung pengembangan lebih lanjut melalui Saweria:
+👉 [Saweria.co/Rahmanizm](https://saweria.co/Rahmanizm)  
+
+Jika ada pertanyaan atau ingin berdiskusi lebih lanjut, hubungi saya di:
 - Instagram: [@rahman.zip](https://instagram.com/rahman.zip)
-- Saweria (Dukung Pengembangan): [Saweria.co/Rahmanizm](https://saweria.co/Rahmanizm)
+
+Catatan: Donasi bersifat sukarela dan tidak mempengaruhi akses terhadap proyek ini.  
 
