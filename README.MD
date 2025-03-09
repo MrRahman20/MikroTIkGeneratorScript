@@ -53,15 +53,13 @@ Proyek ini dirilis di bawah lisensi **MIT License**. Silakan gunakan dan kontrib
 
 Kami membuka kesempatan bagi siapa saja yang ingin berkontribusi dalam pengembangan proyek ini. Silakan fork dan buat pull request! ✨
 
-## 📞 Kontak & Dukungan
-
-
 
 ## 🎁 Dukung Pengembangan
 Proyek ini merupakan modifikasi dari **MikroTik Script Generator Buana**.  
 Jika proyek ini bermanfaat, kamu bisa mendukung pengembangan lebih lanjut melalui Saweria:
 👉 [Saweria.co/Rahmanizm](https://saweria.co/Rahmanizm)  
 
+## 📞 Kontak & Dukungan
 Jika ada pertanyaan atau ingin berdiskusi lebih lanjut, hubungi saya di:
 - Instagram: [@rahman.zip](https://instagram.com/rahman.zip)
 
