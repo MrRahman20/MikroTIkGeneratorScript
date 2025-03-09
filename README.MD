@@ -45,28 +45,6 @@ npm install
 npm run dev
 ```
 
-### **4. Menjalankan dengan Docker**
-
-```bash
-docker-compose up -d
-```
-
-## 🌐 Deployment
-
-### **1. Deploy Frontend ke Vercel**
-
-```bash
-vercel deploy
-```
-
-### **2. Deploy Backend ke VPS (Ubuntu/Debian)**
-
-```bash
-# Jalankan di VPS
-pm install -g pm2
-pm start &
-```
-
 ## 📜 Lisensi
 
 Proyek ini dirilis di bawah lisensi **MIT License**. Silakan gunakan dan kontribusi!
